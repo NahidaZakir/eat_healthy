@@ -1,0 +1,59 @@
+.body{
+    font-family: 'Montserrat', sans-serif;
+    margin:0;
+}
+.top-banner{
+    margin: 100px;
+}
+.banner-content h1{
+    font-size: 60px;
+    font-weight: 700;
+}
+.banner-content p{
+    color:#828282;
+    font-size: 20;
+    font-weight: 500;
+    margin-bottom: 60px;
+    text-align: left;
+}
+.half-width{
+    width: 50%;
+}
+.orange-color{
+    background: -webkit-linear-gradient(#FBA24F, #FF1E1E);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.grey-color{
+    color: #575757;
+}
+.link-background{
+    color:white;
+    background:linear-gradient(#FBA24F,#FF1E1E);
+    padding: 24px 32px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 18px;
+    border-radius: 50px;
+}
+.display{
+    display: flex;
+}
+.about-me{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+.aboutme-content h3{
+    color: #707070;
+    font-size: 40px;
+    font-weight: 700;
+}
+.aboutme-content{
+    margin: 50px;
+}
+.aboutme-content p{
+    font-weight: 400;
+    font-size: 18;
+    color:#18191F;
+    margin: 50px 0;
+}
